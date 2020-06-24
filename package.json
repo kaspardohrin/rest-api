@@ -1,0 +1,19 @@
+{
+  "name": "contacts-api",
+  "version": "1.0.0",
+  "description": "Full stack web development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lennart Bank",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
